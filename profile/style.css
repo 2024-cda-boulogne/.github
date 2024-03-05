@@ -1,0 +1,18 @@
+.table-container {
+    overflow-x: auto;
+    max-width: 100%;
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+th, td {
+    padding: 8px;
+    text-align: center;
+}
+.fixed-column {
+    position: sticky;
+    left: -1px;
+    z-index: 1;
+    background-color: #f2f2f2;
+}
