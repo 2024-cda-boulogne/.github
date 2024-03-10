@@ -17,7 +17,7 @@ Hauts-de-France
 
 | Briefs | Technologies | <a href="https://github.com/orgs/2024-cda-boulogne">Developer</a> | <a href="https://github.com/orgs/2024-cda-boulogne">Developer</a> |
 | :----: | :----: | :----: | :----: |
-| [S'approprier le REAC](https://github.com/orgs/2024-cda-boulogne) |  | <a href="https://github.com/orgs/2024-cda-boulogne">🔵</a> | <a href="https://github.com/orgs/2024-cda-boulogne">🟡</a> |
+| [Wiki perso](https://github.com/orgs/2024-cda-boulogne/wiki-perso) |  | <a href="https://github.com/orgs/2024-cda-boulogne">🔵</a> | <a href="https://github.com/orgs/2024-cda-boulogne">🟡</a> |
 
 ## Auteurs, contributeurs
 
