@@ -4,6 +4,21 @@ Titre Professionnel
 Concepteur Développeur d'Applications
 Hauts-de-France
 
+## Qui sommes nous
+
+<figure>
+    <div align="center">
+        <a href="https://github.com/2024-cda-boulogne/Trombi_TD_GN">
+            <img src="./profile/img/map-hdf.png" alt="map-hdf.png" style="width: 300px !important;">
+        </a>
+    </div>
+    <div align="center">
+        <figcaption>
+            <a href="https://github.com/2024-cda-boulogne/Trombi_TD_GN" align="center">https://github.com/2024-cda-boulogne/Trombi_TD_GN</a>
+        </figcaption>
+    </div>
+</figure>
+
 ## Technologies
 
 &nbsp;&nbsp;
@@ -14,7 +29,6 @@ Hauts-de-France
 ![img_javascript](./profile/img/javascript.svg)
 
 ## Réalisations
-
 
 |                            Briefs                             |                                                          Technologies                                                           |          <a href="https://github.com/JunkBezoul">AlexB</a>           |           <a href="https://github.com/Theo02-12">ThéoC</a>           |            <a href="https://github.com/Ericdsr">EricD</a>            |          <a href="https://github.com/Yokokorico">ThéoD</a>           |         <a href="https://github.com/viviengajac">VivienG</a>         |          <a href="https://github.com/Karl-Gavois">KarlG</a>          |         <a href="https://github.com/kevin-ledez">KévinL</a>          |       <a href="https://github.com/Merlinovitch">AlexandreM</a>       |        <a href="https://github.com/Geoffrey184">GeoffreyN</a>        |          <a href="https://github.com/NOTLimai">WilliamT</a>          |
 | :-----------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------: | :------------------------------------------------------------------: | :------------------------------------------------------------------: | :------------------------------------------------------------------: | :------------------------------------------------------------------: | :------------------------------------------------------------------: | :------------------------------------------------------------------: | :------------------------------------------------------------------: | :------------------------------------------------------------------: | :------------------------------------------------------------------: |
