@@ -14,12 +14,12 @@ Hauts-de-France
     </div>
     <div align="center">
         <figcaption>
-            <a href="https://2024-cda-boulogne.github.io/Trombi_TD_GN" align="center">https://2024-cda-boulogne.github.io/Trombi_TD_GN</a>
+            <a href="https://2024-cda-boulogne.github.io/Trombi_TD_GN" align="center">Trombinoscope</a>
         </figcaption>
     </div>
 </figure>
 
-## Technologies
+## Les technologies utilisées
 
 &nbsp;&nbsp;
 ![img_html](./profile/img/html.svg)
@@ -28,7 +28,7 @@ Hauts-de-France
 &nbsp;&nbsp;
 ![img_javascript](./profile/img/javascript.svg)
 
-## Réalisations
+## Nos réalisations
 
 |                            Briefs                             |                                                          Technologies                                                           |          <a href="https://github.com/JunkBezoul">AlexB</a>           |           <a href="https://github.com/Theo02-12">ThéoC</a>           |            <a href="https://github.com/Ericdsr">EricD</a>            |          <a href="https://github.com/Yokokorico">ThéoD</a>           |          <a href="https://github.com/DASyhef">CédricF</a>           |         <a href="https://github.com/viviengajac">VivienG</a>         |          <a href="https://github.com/Karl-Gavois">KarlG</a>          |         <a href="https://github.com/kevin-ledez">KévinL</a>          |       <a href="https://github.com/Merlinovitch">AlexandreM</a>       |        <a href="https://github.com/Geoffrey184">GeoffreyN</a>        |          <a href="https://github.com/NOTLimai">WilliamT</a>          |          <a href="https://github.com/Simon-vnct">SimonV</a>          |
 | :-----------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------: | :------------------------------------------------------------------: | :------------------------------------------------------------------: | :------------------------------------------------------------------: | :------------------------------------------------------------------: | :------------------------------------------------------------------: | :------------------------------------------------------------------: | :------------------------------------------------------------------: | :------------------------------------------------------------------: | :------------------------------------------------------------------: | :------------------------------------------------------------------: | :------------------------------------------------------------------: |
@@ -45,6 +45,21 @@ Hauts-de-France
 | :-----------------------------------------------------------: | :------------------------------------------------------------------: | :------------------------------------------------------------------: | :------------------------------------------------------------------: | :------------------------------------------------------------------: | :------------------------------------------------------------------: | :------------------------------------------------------------------: | :------------------------------------------------------------------: | :------------------------------------------------------------------: | :------------------------------------------------------------------: | :------------------------------------------------------------------: | :------------------------------------------------------------------: | :------------------------------------------------------------------: |
 | [Ma Micro-Saas](https://github.com/2024-cda-boulogne/saasdraft) | <a href="https://github.com/2024-cda-boulogne/saasdraft-abu">🔗</a> | <a href="https://github.com/2024-cda-boulogne/saasdraft-tco">🔗</a> | <a href="https://github.com/2024-cda-boulogne/saasdraft-eda">🔗</a> | <a href="https://github.com/2024-cda-boulogne/saasdraft-tdu">🔗</a> | <a href="https://github.com/2024-cda-boulogne/saasdraft-cfr">🔗</a> | <a href="https://github.com/2024-cda-boulogne/saasdraft-vga">🔗</a> | <a href="https://github.com/2024-cda-boulogne/saasdraft-kga">🔗</a> | <a href="https://github.com/2024-cda-boulogne/saasdraft-kle">🔗</a> | <a href="https://github.com/2024-cda-boulogne/saasdraft-ame">🔗</a> | <a href="https://github.com/2024-cda-boulogne/saasdraft-gno">🔗</a> | <a href="https://github.com/2024-cda-boulogne/saasdraft-wtr">🔗</a> | <a href="https://github.com/2024-cda-boulogne/saasdraft-svi">🔗</a> |
 | [La vision de mon projet](https://github.com/2024-cda-boulogne/my-vision) | <a href="https://github.com/2024-cda-boulogne/my-vision-abu">🔗</a> | <a href="https://github.com/2024-cda-boulogne/my-vision-tco">🔗</a> | <a href="https://github.com/2024-cda-boulogne/my-vision-eda">🔗</a> | <a href="https://github.com/2024-cda-boulogne/my-vision-tdu">🔗</a> | <a href="https://github.com/2024-cda-boulogne/my-vision-cfr">🔗</a> | <a href="https://github.com/2024-cda-boulogne/my-vision-vga">🔗</a> | <a href="https://github.com/2024-cda-boulogne/my-vision-kga">🔗</a> | <a href="https://github.com/2024-cda-boulogne/my-vision-kle">🔗</a> | <a href="https://github.com/2024-cda-boulogne/my-vision-ame">🔗</a> | <a href="https://github.com/2024-cda-boulogne/my-vision-gno">🔗</a> | <a href="https://github.com/2024-cda-boulogne/my-vision-wtr">🔗</a> | <a href="https://github.com/2024-cda-boulogne/my-vision-svi">🔗</a> |
+
+## Notre avancée
+
+<figure>
+    <div align="center">
+        <a href="https://2024-cda-boulogne.github.io/skilltree-tdu">
+            <img src="./profile/img/skills-tree.webp" alt="skills-tree.webp" style="width: 300px !important;">
+        </a>
+    </div>
+    <div align="center">
+        <figcaption>
+            <a href="https://2024-cda-boulogne.github.io/skilltree-tdu" align="center">Arbre de compétences</a>
+        </figcaption>
+    </div>
+</figure>
 
 ## Auteurs, contributeurs
 
